@@ -1,0 +1,5 @@
+﻿  UnitTest6.2.cpp
+D:\C\PR6.2\PR6.2\PR6.2.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest6.2.cpp')
+  
+  UnitTest6.2.vcxproj -> D:\C\PR6.2\x64\Debug\UnitTest6.2.dll
